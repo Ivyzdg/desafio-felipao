@@ -39,4 +39,4 @@ let nivel;
     }
 
 //exibindo a mensagem
-    console.log("O herói de nome " + nickDoHeroi +" está no nível " + nivel)
+    console.log("O herói de nome " + nickDoHeroi +" está no nível " + nivel);
